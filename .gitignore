@@ -13,6 +13,7 @@ dist-ssr
 *.local
 db.json
 .env
+.github/**/*
 
 # Editor directories and files
 .vscode/*
