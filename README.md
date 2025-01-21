@@ -13,8 +13,8 @@ Follow the steps below to run the project locally:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/rosfandy/FrontendDevReactjs-rosfandy
+cd FrontendDevReactjs-rosfandy
 ```
 
 ### 2. Install Dependencies
@@ -60,21 +60,3 @@ or using `yarn`:
 ```bash
 yarn preview
 ```
-
-## Login Credentials
-Use the following credentials to log in to the application:
-- **Username**: `admin`
-- **Password**: `password123`
-
-> ⚠️ **Note**: Replace the above credentials with actual ones for production use. Avoid hardcoding sensitive information in your code or README files.
-
-## Tech Stack
-- **React**: v18.x
-- **Vite**: v4.x
-- **Node.js**: v16.x or higher
-
-## Contributing
-Feel free to fork this repository and submit pull requests. Contributions are always welcome!
-
-## License
-This project is licensed under the [MIT License](LICENSE).
