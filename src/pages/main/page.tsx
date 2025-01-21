@@ -53,7 +53,7 @@ export function Main() {
                         {fiteredData.length > visibleCount && (
                             <div className="flex justify-center">
                                 <div className="w-1/5 mt-24 mb-8">
-                                    <Button onClick={loadMore} label="load more" className="bg-transparent border border-black text-[#000000]" />
+                                    <Button onClick={loadMore} label="load more" className="bg-transparent border border-black text-blue-800" />
                                 </div>
                             </div>
                         )}
